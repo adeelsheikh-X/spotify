@@ -28,31 +28,14 @@ A responsive front-end **Spotify Clone** built using **HTML**, **CSS**, and **Ja
 ---
 
 ## 📁 Project Structure
+```
 spotify-clone/
 ├── index.html # Main HTML page
 ├── style.css # CSS styles
 ├── script.js # JavaScript (if any)
 ├── assets/ # Images, icons, audio files
 └── README.md
-
-
----
-
-## 🖼️ Screenshots
-
-### 🎵 Home Page
-![Image](https://github.com/user-attachments/assets/5ae91631-5f46-4074-966c-656b3b04d564)
-
-### 📚 Your Library
-![Image](https://github.com/user-attachments/assets/e83af36b-59bf-4e70-9a7d-fb11f4da4224)
-
-###  Responsive Design
-![Image](https://github.com/user-attachments/assets/b207697c-c243-4242-bd65-32536ace39b3)
-![Image](https://github.com/user-attachments/assets/2d20c45b-5d00-45a0-9bc5-8cd32d8dfc3f)
-
-
-
----
+```
 
 ## 💡 How to Use
 1. **Clone the repository**
@@ -84,13 +67,27 @@ Improve CSS and responsive design skills
 Build an impressive portfolio project
 
 ## 🙋‍♂️ Author
+```
 Sheikh Adeel
 📍 Vehari, Pakistan
 🎓 BSCS - COMSATS University, Vehari Campus
 📫 https://linkedin.com/in/sheikh-adeel | adeelsheikh0036@gmail.com
+```
 
 ##📜 License
 This project is licensed under the MIT License.
+
+## 🖼️ Screenshots
+
+### 🎵 Home Page
+![Image](https://github.com/user-attachments/assets/5ae91631-5f46-4074-966c-656b3b04d564)
+
+### 📚 Your Library
+![Image](https://github.com/user-attachments/assets/e83af36b-59bf-4e70-9a7d-fb11f4da4224)
+
+###  Responsive Design
+![Image](https://github.com/user-attachments/assets/b207697c-c243-4242-bd65-32536ace39b3)
+![Image](https://github.com/user-attachments/assets/2d20c45b-5d00-45a0-9bc5-8cd32d8dfc3f)
 
 
 
