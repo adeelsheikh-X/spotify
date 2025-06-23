@@ -41,15 +41,17 @@ spotify-clone/
 ## 🖼️ Screenshots
 
 ### 🎵 Home Page
-![Home Page](screenshots/home.png)
+![Image](https://github.com/user-attachments/assets/5ae91631-5f46-4074-966c-656b3b04d564)
 
 ### 📚 Your Library
-![Library](screenshots/library.png)
+![Image](https://github.com/user-attachments/assets/e83af36b-59bf-4e70-9a7d-fb11f4da4224)
 
-### 🎶 Songs Bar (Bottom Player)
-![Player](screenshots/player.png)
+###  Responsive Design
+![Image](https://github.com/user-attachments/assets/b207697c-c243-4242-bd65-32536ace39b3)
+### Responsive Design
+![Image](https://github.com/user-attachments/assets/2d20c45b-5d00-45a0-9bc5-8cd32d8dfc3f)
 
-> 📸 Add your own screenshots in a `screenshots/` folder and update the links.
+
 
 ---
 
@@ -59,5 +61,35 @@ spotify-clone/
    ```bash
    git clone https://github.com/yourusername/spotify-clone.git
    cd spotify-clone
+2. Open in your browse
+   ```bash
+   Open index.html
+   
+3. Enjoy the interface!
+
+Hover over song items
+
+Resize to test responsiveness
+
+Customize songs and icons
+
+4. Project Goals
+Practice frontend development
+
+Recreate a real-world app UI
+
+Improve CSS and responsive design skills
+
+Build an impressive portfolio project
+
+🙋‍♂️ Author
+Sheikh Adeel
+📍 Vehari, Pakistan
+🎓 BSCS - COMSATS University, Vehari Campus
+📫 https://linkedin.com/in/sheikh-adeel | adeelsheikh0036@gmail.com
+
+📜 License
+This project is licensed under the MIT License.
+
 
 
