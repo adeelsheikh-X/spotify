@@ -48,7 +48,6 @@ spotify-clone/
 
 ###  Responsive Design
 ![Image](https://github.com/user-attachments/assets/b207697c-c243-4242-bd65-32536ace39b3)
-### Responsive Design
 ![Image](https://github.com/user-attachments/assets/2d20c45b-5d00-45a0-9bc5-8cd32d8dfc3f)
 
 
@@ -74,6 +73,7 @@ Resize to test responsiveness
 Customize songs and icons
 
 4. Project Goals
+   
 Practice frontend development
 
 Recreate a real-world app UI
