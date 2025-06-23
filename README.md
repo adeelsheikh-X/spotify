@@ -60,12 +60,12 @@ spotify-clone/
    git clone https://github.com/yourusername/spotify-clone.git
    cd spotify-clone
    ```
-##2.Open in your browse
+## 2.Open in your browse
    ```bash
    Open index.html
 ```
    
-##3. Enjoy the interface!
+## 3. Enjoy the interface!
 
 Hover over song items
 
@@ -73,7 +73,7 @@ Resize to test responsiveness
 
 Customize songs and icons
 
-##4. Project Goals
+## 4. Project Goals
    
 Practice frontend development
 
@@ -83,7 +83,7 @@ Improve CSS and responsive design skills
 
 Build an impressive portfolio project
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 Sheikh Adeel
 📍 Vehari, Pakistan
 🎓 BSCS - COMSATS University, Vehari Campus
