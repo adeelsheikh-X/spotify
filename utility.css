@@ -1,0 +1,41 @@
+.border{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
+.align{
+    align-items: center;
+}
+.justify{
+    justify-content: center;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+
+
+/* WebKit Browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #121212; /* dark track */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #333; /* dark thumb */
+  border-radius: 10px;
+  border: 2px solid #121212; /* gives padding effect */
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #333 #121212;
+}
